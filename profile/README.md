@@ -1,3 +1,5 @@
+<img src="../metrics.svg" alt="Metric" />
+
 ## 关于
 本仓库为 [**ProjectRTSN**](https://github.com/ProjectRTSN) 主仓库
 
